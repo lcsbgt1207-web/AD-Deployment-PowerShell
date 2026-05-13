@@ -1,3 +1,4 @@
+
 # AD-Deployment-PowerShell
 
 Script PowerShell de déploiement automatisé d'un environnement Active Directory sous Windows Server.
@@ -27,7 +28,6 @@ Set-ExecutionPolicy Unrestricted -Force
 ```
 
 ## Résultat
-![Rapport final](screenshot.png)
-
+<img width="1010" height="851" alt="readme adds" src="https://github.com/user-attachments/assets/bbbd84d1-a5bc-4fa6-8c71-74103e5bb940" />
 ## Auteur
 Lucas Bigot — [ESIEE-IT](https://www.esiee-it.fr) | Bachelor DSNS 
